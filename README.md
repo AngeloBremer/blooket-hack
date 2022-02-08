@@ -4,7 +4,7 @@
 
 # The Blooket Hack
 
-**The Blooket Hack provided by [gliz](https://twitter.com/glizuwu)**
+**The Blooket Hack provided by [AngeloBremer]**
 
 Why you should use this tool:
 - Always working.
