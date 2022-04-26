@@ -1,6 +1,6 @@
 
 
-# Support discord server: https://glizzers.xyz/discord
+# Support discord server: 
 
 # The Blooket Hack
 
@@ -12,7 +12,7 @@ Why you should use this tool:
 - This tool is actively being updated so nothing breaks.
 - Used by hundreds of thousands people.
 
-All of the hacks are sorted into the gamemode they can be used in. If you encounter a problem or a issue please [open a issue here](https://github.com/glixzzy/blooket-hack/issues).
+All of the hacks are sorted into the gamemode they can be used in. If you encounter a problem or a issue please.
 
 If you are a programmer and want to make your own stuff for blooket make sure to check out the [blooket library](https://github.com/glixzzy/blooket-wrapper).
 
@@ -20,7 +20,7 @@ If you are a programmer and want to make your own stuff for blooket make sure to
 
 Blooket Hack v4.1
 
-- **View all the changelogs [here](https://github.com/glixzzy/blooket-hack/blob/main/CHANGELOG.md).**
+- **View all the changelogs [here](https://github.com/AngeloBremer/blooket-hack/blob/main/CHANGELOG.md).**
 
 # Usage
 
